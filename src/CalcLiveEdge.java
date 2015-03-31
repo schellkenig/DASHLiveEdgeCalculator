@@ -11,14 +11,15 @@ public class CalcLiveEdge
 
     public static void main(String[] args)
     {
-        System.out.println("Calculate Live Edge");
-        System.out.println("-------------------");
+        System.out.println("CalcLiveEdge 1.0");
+        System.out.println("");
         
         if (args.length < 4)
         {
             System.out.println("Usage: CalcLiveEdge availabilityStartTime duration timescale startNumber");
-            System.out.println("");
             System.out.println("Example: CalcLiveEdge 2015-03-30T09:30:10Z 60060000 10000000 1427139101");
+            System.out.println("");
+            System.out.println("Copyright (C) 2015 bitmovin GmbH");
             
             return;
         }
