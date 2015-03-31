@@ -36,8 +36,7 @@ public class CalcLiveEdge
             return;
         }
         
-        Date    now                     = Calendar.getInstance().getTime();
-
+        Date    now                 = Calendar.getInstance().getTime();
         long    secondsDifference   = (now.getTime() - availabilityStartTime.getTime()) / 1000;
         long    segmentDuration     = Long.parseLong(args[1]);
         long    segmentTimescalce   = Long.parseLong(args[2]);
