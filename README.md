@@ -9,6 +9,6 @@ MPEG-DASH content could be generated with the cloud based transcoding service [b
 # MPEG-DASH Players
 If your are searching for an MPEG-DASH player visit [dash-player.com](http://www.dash-player.com/).
 
-[![bitdash](http://www.bitmovin.net/wp-content/uploads/2014/10/dash-player-bitdash-html5-flash.jpg)](http://www.dash-player.com/)
+[![bitdash](http://www.dash-player.com/wp-content/uploads/2015/03/Player.gif)](http://www.dash-player.com/)
 
 
