@@ -2,6 +2,7 @@
 Calculates the live edge for MPEG-DASH segment template based streams. Can be used to analyze segment template based MPEG-DASH MPDs.
 
 Usage: CalcLiveEdge availabilityStartTime duration timescale startNumber
+
 Usage Example: java -jar CalcLiveEdge.jar 2015-03-30T09:30:10Z 60060000 10000000 1427139101
 
 # MPEG-DASH Content Generation
